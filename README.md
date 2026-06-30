@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @du-rio
 - 👀 I’m interested in code
-- 🌱 I’m currently learning Python, Sql and web development
+- 🌱 I’m currently learning Python, SQL and web development
 - 💞️ I’m looking to collaborate on basic projects
 - 📫 How to reach me ...
 
